@@ -7,7 +7,7 @@ class CustomException(Exception):
         _,_,exc_tb=error_detail.exc_info()
         file_name=exc_tb.tb_frame.f_code.co_filename
 
-        error_message="Error occured in python scripts name[{0}] line number [{1}] error message "[{3}].format(
+        error_message="Error occured in python scripts name[{0}] line number [{1}] error message [{3}]".format(
             file_name, exc_tb.tb_lineno,str(error)
         )
 
