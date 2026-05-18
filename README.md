@@ -119,15 +119,11 @@ Research and similar implementations show Random Forest and regression-based mod
 
 📸 Screenshots
 
-Add your project screenshots here.
-
 Home Page
 ![Home Page](assets/home.png)
 Prediction Output
 ![Prediction Output](assets/output.png)
 Model Training / Graphs
-![Graphs](assets/graph.png)
-📚 Learning Outcomes
 
 Through this project, I learned:
 
